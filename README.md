@@ -346,9 +346,6 @@ and run all cells.
 
 **Shah Tanish**
 
-**Prince Bhandari**
----
-
 ## 📜 Research Paper
 
 The complete research paper is included in this repository:
